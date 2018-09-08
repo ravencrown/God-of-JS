@@ -11,7 +11,7 @@
 
 ## 《你不知道的JavaScript》
 
-- 记录一
+- [AST 抽象语法树的简单认识](https://github.com/ravencrown/God-of-JS/issues/2)
 - 记录二
 - 记录三
 
