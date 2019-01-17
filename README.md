@@ -15,4 +15,19 @@
 - 记录二
 - 记录三
 
-...
+## JavaScript 概念
+
+- this
+- 原型
+- 
+
+## ES6 高级概念
+
+## 异步
+
+- event-loop
+- JS 解决异步的方案有哪些
+- 用 jQuery 如何解决异步
+- promise 标准
+- async/await
+
