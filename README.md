@@ -12,8 +12,7 @@
 ## 《你不知道的JavaScript》
 
 - [AST 抽象语法树的简单认识](https://github.com/ravencrown/God-of-JS/issues/2)
-- 记录二
-- 记录三
+- [JavaScript 的编译原理](https://github.com/ravencrown/God-of-JS/issues/3)
 
 ## JavaScript 概念
 
