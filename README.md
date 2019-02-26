@@ -14,6 +14,7 @@
 - [AST 抽象语法树的简单认识](https://github.com/ravencrown/God-of-JS/issues/2)
 - [JavaScript 的编译原理](https://github.com/ravencrown/God-of-JS/issues/3)
 - [简单理解 JavaScript 作用域](https://github.com/ravencrown/God-of-JS/issues/4)
+- [引擎如何对作用域查询的？](https://github.com/ravencrown/God-of-JS/issues/5)
 
 ## JavaScript 概念
 
