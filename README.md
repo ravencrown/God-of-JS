@@ -15,6 +15,7 @@
 - [JavaScript 的编译原理](https://github.com/ravencrown/God-of-JS/issues/3)
 - [简单理解 JavaScript 作用域](https://github.com/ravencrown/God-of-JS/issues/4)
 - [引擎如何对作用域查询的？](https://github.com/ravencrown/God-of-JS/issues/5)
+- [查询作用域导致的异常](https://github.com/ravencrown/God-of-JS/issues/6)
 
 ## JavaScript 概念
 
