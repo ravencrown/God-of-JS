@@ -17,6 +17,7 @@
 - [引擎如何对作用域查询的？](https://github.com/ravencrown/God-of-JS/issues/5)
 - [查询作用域导致的异常](https://github.com/ravencrown/God-of-JS/issues/6)
 - [作用域有几种](https://github.com/ravencrown/God-of-JS/issues/7)
+- [全局作用域中，用const和let声明的变量去哪了？](https://github.com/ravencrown/God-of-JS/issues/9)
 
 ## JavaScript 概念
 
